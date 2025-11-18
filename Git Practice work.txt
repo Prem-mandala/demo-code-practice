@@ -1,4 +1,4 @@
-a = 10
-b = 15
+a = 65
+b = 75
 sum = a + b 
 print ("the sum is = " sum)
